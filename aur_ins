@@ -1,2 +1,2 @@
-
+#!/bin/bash
 sudo pacman -U arch_gnome/aur_files/*.tar.xz
