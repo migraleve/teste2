@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/migraleve/Downloads/gtk-theme-arc.tar.gz" added="2016-06-02T18:25:17Z" modified="2016-06-02T18:25:17Z" visited="2016-06-02T18:25:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-06-02T18:25:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/migraleve/Downloads/numix-circle-icon-theme-git.tar.gz" added="2016-06-02T18:27:47Z" modified="2016-06-02T18:27:47Z" visited="2016-06-02T18:27:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-06-02T18:27:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/migraleve/Downloads/numix-themes-git.tar.gz" added="2016-06-02T18:28:19Z" modified="2016-06-02T18:28:19Z" visited="2016-06-02T18:28:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-06-02T18:28:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/migraleve/Downloads/ArcticApricity-master.zip" added="2016-06-02T18:28:56Z" modified="2016-06-02T18:32:28Z" visited="2016-06-02T18:28:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-06-02T18:28:56Z" count="1"/>
+          <bookmark:application name="gnome-tweak-tool" exec="&apos;gnome-tweak-tool %u&apos;" modified="2016-06-02T18:32:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/migraleve/Downloads/numix-icon-theme-git.tar.gz" added="2016-06-02T18:56:19Z" modified="2016-06-02T18:56:19Z" visited="2016-06-02T18:56:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-06-02T18:56:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/migraleve/Downloads/UBeWVaL.png" added="2016-06-02T19:16:20Z" modified="2016-06-02T19:16:23Z" visited="2016-06-02T19:16:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-06-02T19:16:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/migraleve/.bashrc" added="2016-06-05T17:54:20Z" modified="2016-06-05T17:54:26Z" visited="2016-06-05T17:54:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-06-05T17:54:20Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-05T17:54:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
