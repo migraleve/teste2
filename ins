@@ -1,9 +1,11 @@
 #!/bin/bash
 sudo pacman -S gnome gnome-tweak-tool
+systemctl enable ntpd
 systemctl enable gdm.service
 rm -r ~/.config
 rm -r ~/.local
 cp -r test2/.config ~/.config
 cp -r teste2/.local ~/.local
+cp -r teste2/.bashrc ~/.bashrc && source ~/.bashrc
 chmod +x teste2/aur_ins
 teste2/aur_ins
