@@ -1,8 +1,8 @@
 #!/bin/bash
+sudo pacman -Syy
 sudo pacman -S gnome gnome-tweak-tool
 systemctl enable ntpd
 systemctl enable gdm.service
-sudo pacman -Syy
 rm -r /.config
 rm -r /.local
 rm -r /cache/*
